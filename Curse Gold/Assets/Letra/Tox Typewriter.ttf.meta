@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0857c9d0999fbb04ba1f6d264464ce29
+timeCreated: 1493049910
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tox Typewriter
+  fontNames:
+  - Tox Typewriter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

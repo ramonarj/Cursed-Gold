@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 71dc62e58376e244ca3ef044b204f894
+timeCreated: 1493848342
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pieces of Eight
+  fontNames:
+  - Pieces of Eight
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
