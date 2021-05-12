@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6a74b7211a3d7474aa3243a1d6cde36e
+timeCreated: 1490955433
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BarraDeVida: {instanceID: 0}
+  - BarraCooldown: {instanceID: 0}
+  - textoMonedas: {instanceID: 0}
+  - textoPociones: {instanceID: 0}
+  - textoVidas: {instanceID: 0}
+  - cara1: {instanceID: 0}
+  - cara2: {instanceID: 0}
+  - cara3: {instanceID: 0}
+  - controles: {fileID: 1147770023452122, guid: f623c9700f9f0f749b77bd28313f5a56,
+      type: 2}
+  - jugador: {fileID: 150020, guid: b958382c9879db2499911270b372dae7, type: 2}
+  - video: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
