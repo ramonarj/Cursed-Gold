@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - "Poci\xF3n"
+  - ZonaBoss
+  - Muro
+  - BalaJ
+  - Checkpoint
+  - Onda
+  - tutorial
+  - isla1
+  - isla2
+  - isla3
+  - BordeVert
+  - BordeHor
+  - DeadZone
+  - BarrilExpl
+  - zonadest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Suelo
+  - Barril
+  - Barrilexpl
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
